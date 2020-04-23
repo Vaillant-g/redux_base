@@ -2,4 +2,5 @@
 starter app with redux
 
 > npm install
+
 > npm start
